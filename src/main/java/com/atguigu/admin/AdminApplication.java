@@ -11,6 +11,7 @@ public class AdminApplication {
         SpringApplication.run(AdminApplication.class, args);
         System.out.println("hello,git");
         System.out.println("hello,git2");
+        System.out.println("hello,git_hot-fix");
     }
 
 }
