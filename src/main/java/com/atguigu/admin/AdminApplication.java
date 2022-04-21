@@ -12,6 +12,7 @@ public class AdminApplication {
         System.out.println("hello,git");
         System.out.println("hello,git2");
         System.out.println("hello,git_hot-fix");
+        System.out.println("hello,git_hot-fix_test");
     }
 
 }
