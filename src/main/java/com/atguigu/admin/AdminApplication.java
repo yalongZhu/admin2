@@ -14,6 +14,7 @@ public class AdminApplication {
         System.out.println("hello,git_hot-fix");
         System.out.println("hello,git_master_test");
         System.out.println("hello,git_hot-fix_test");
+        System.out.println("push test");
     }
 
 }
